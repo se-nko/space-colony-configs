@@ -1,1 +1,3 @@
 service.type: space-colony
+storage.capacity: 100
+harvesters.count: 3
